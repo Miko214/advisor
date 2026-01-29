@@ -1,0 +1,403 @@
+[
+  {
+    "symbol": "ADA/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      0.34140582,
+      0.35608836
+    ],
+    "take_profit_levels": [
+      0.325522,
+      0.32967759999999996,
+      0.3338332,
+      0.3379888,
+      0.3421444
+    ],
+    "stop_loss": 0.360152,
+    "support_levels": [
+      0.3421,
+      0.3327
+    ],
+    "resistance_levels": [
+      0.3584,
+      0.365,
+      0.3707
+    ],
+    "volatility": 1.8843706598366963,
+    "grid_spacing": 1.0,
+    "grid_levels": 5,
+    "position_size": 20.0,
+    "expected_duration": "12-24 часа",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.25,
+    "trailing_down": 0.5,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476495"
+  },
+  {
+    "symbol": "IOTA/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      0.08250079,
+      0.08639841
+    ],
+    "take_profit_levels": [
+      0.0777664,
+      0.07927479999999999,
+      0.0807832,
+      0.08229159999999999
+    ],
+    "stop_loss": 0.08782240000000001,
+    "support_levels": [
+      0.0837,
+      0.0817,
+      0.0811
+    ],
+    "resistance_levels": [
+      0.08795,
+      0.0911,
+      0.0941
+    ],
+    "volatility": 2.067154044747713,
+    "grid_spacing": 1.5,
+    "grid_levels": 4,
+    "position_size": 25.0,
+    "expected_duration": "4-8 часов",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.4,
+    "trailing_down": 0.8,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476516"
+  },
+  {
+    "symbol": "ETC/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      11.04771281,
+      11.41457437
+    ],
+    "take_profit_levels": [
+      10.499799999999999,
+      10.63384,
+      10.76788,
+      10.90192,
+      11.03596
+    ],
+    "stop_loss": 11.6168,
+    "support_levels": [
+      11.15,
+      11.0
+    ],
+    "resistance_levels": [
+      11.53,
+      11.63,
+      11.84
+    ],
+    "volatility": 1.4597097600576525,
+    "grid_spacing": 1.0,
+    "grid_levels": 5,
+    "position_size": 20.0,
+    "expected_duration": "12-24 часа",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.25,
+    "trailing_down": 0.5,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476525"
+  },
+  {
+    "symbol": "VET/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      0.00966121,
+      0.01010758
+    ],
+    "take_profit_levels": [
+      0.00910368,
+      0.009280259999999999,
+      0.00945684,
+      0.009633419999999998
+    ],
+    "stop_loss": 0.01028088,
+    "support_levels": [
+      0.00974
+    ],
+    "resistance_levels": [
+      0.01029,
+      0.01037,
+      0.01047
+    ],
+    "volatility": 2.022297740905333,
+    "grid_spacing": 1.5,
+    "grid_levels": 4,
+    "position_size": 25.0,
+    "expected_duration": "4-8 часов",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.4,
+    "trailing_down": 0.8,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476529"
+  },
+  {
+    "symbol": "USDC/USDT",
+    "recommendation": "STRONG_BUY",
+    "direction": "LONG",
+    "confidence": 100,
+    "timeframe": "4h",
+    "entry_range": [
+      0.99515308,
+      1.0014999
+    ],
+    "take_profit_levels": [
+      1.0073078,
+      1.0133156,
+      1.0193234,
+      1.0253312,
+      1.031339,
+      1.0373468000000001,
+      1.0433546
+    ],
+    "stop_loss": 0.9732636,
+    "support_levels": [
+      1.000153846153846
+    ],
+    "resistance_levels": [],
+    "volatility": 0.026618309549896985,
+    "grid_spacing": 0.5,
+    "grid_levels": 7,
+    "position_size": 14.285714285714286,
+    "expected_duration": "1-3 дня",
+    "risk_reward": 1.5,
+    "market_regime": "UPTREND",
+    "trailing_up": 0.3,
+    "trailing_down": 0.15,
+    "notes": [
+      "Очень низкая волатильность - используйте узкую сетку",
+      "Фокусируйтесь на покупках на откатах"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476532"
+  },
+  {
+    "symbol": "LINK/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      11.4370216,
+      11.8659568
+    ],
+    "take_profit_levels": [
+      10.8852,
+      11.02416,
+      11.16312,
+      11.30208,
+      11.44104
+    ],
+    "stop_loss": 12.0432,
+    "support_levels": [
+      11.36
+    ],
+    "resistance_levels": [
+      12.16,
+      12.5,
+      12.66
+    ],
+    "volatility": 1.6462682950886618,
+    "grid_spacing": 1.0,
+    "grid_levels": 5,
+    "position_size": 20.0,
+    "expected_duration": "12-24 часа",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.25,
+    "trailing_down": 0.5,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476536"
+  },
+  {
+    "symbol": "ATOM/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      2.15026924,
+      2.24246152
+    ],
+    "take_profit_levels": [
+      2.05014,
+      2.076312,
+      2.102484,
+      2.128656,
+      2.154828
+    ],
+    "stop_loss": 2.26824,
+    "support_levels": [],
+    "resistance_levels": [
+      2.3085,
+      2.419,
+      2.453
+    ],
+    "volatility": 1.8786953620816604,
+    "grid_spacing": 1.0,
+    "grid_levels": 5,
+    "position_size": 20.0,
+    "expected_duration": "12-24 часа",
+    "risk_reward": 1.5,
+    "market_regime": "STRONG_DOWNTREND",
+    "trailing_up": 0.25,
+    "trailing_down": 0.5,
+    "notes": [
+      "Сильный тренд - используйте меньше уровней",
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476538"
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      0.11938459,
+      0.12399082
+    ],
+    "take_profit_levels": [
+      0.1136648,
+      0.11511584,
+      0.11656688,
+      0.11801792,
+      0.11946896
+    ],
+    "stop_loss": 0.1257568,
+    "support_levels": [
+      0.120145,
+      0.11764
+    ],
+    "resistance_levels": [
+      0.12381,
+      0.127815,
+      0.12884
+    ],
+    "volatility": 1.6930284538279339,
+    "grid_spacing": 1.0,
+    "grid_levels": 5,
+    "position_size": 20.0,
+    "expected_duration": "12-24 часа",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.25,
+    "trailing_down": 0.5,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476541"
+  },
+  {
+    "symbol": "XTZ/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      0.51890869,
+      0.54678262
+    ],
+    "take_profit_levels": [
+      0.49016960000000004,
+      0.4996772,
+      0.5091848,
+      0.5186923999999999
+    ],
+    "stop_loss": 0.5535536,
+    "support_levels": [],
+    "resistance_levels": [
+      0.5862,
+      0.5934,
+      0.6028
+    ],
+    "volatility": 2.345402217588184,
+    "grid_spacing": 1.5,
+    "grid_levels": 4,
+    "position_size": 25.0,
+    "expected_duration": "4-8 часов",
+    "risk_reward": 1.5,
+    "market_regime": "STRONG_DOWNTREND",
+    "trailing_up": 0.4,
+    "trailing_down": 0.8,
+    "notes": [
+      "Сильный тренд - используйте меньше уровней",
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476544"
+  },
+  {
+    "symbol": "HBAR/USDT",
+    "recommendation": "STRONG_SELL",
+    "direction": "SHORT",
+    "confidence": 100,
+    "timeframe": "1h",
+    "entry_range": [
+      0.10274344,
+      0.10672312
+    ],
+    "take_profit_levels": [
+      0.09782579999999999,
+      0.09907463999999999,
+      0.10032347999999999,
+      0.10157232,
+      0.10282116
+    ],
+    "stop_loss": 0.1082328,
+    "support_levels": [
+      0.10388,
+      0.1028,
+      0.10099
+    ],
+    "resistance_levels": [
+      0.10798,
+      0.1091,
+      0.11157
+    ],
+    "volatility": 1.6995749760864616,
+    "grid_spacing": 1.0,
+    "grid_levels": 5,
+    "position_size": 20.0,
+    "expected_duration": "12-24 часа",
+    "risk_reward": 1.5,
+    "market_regime": "DOWNTREND",
+    "trailing_up": 0.25,
+    "trailing_down": 0.5,
+    "notes": [
+      "Фокусируйтесь на продажах на отскоках"
+    ],
+    "timestamp": "2026-01-29T13:54:03.476547"
+  }
+]
